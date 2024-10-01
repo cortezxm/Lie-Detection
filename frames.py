@@ -1,8 +1,8 @@
 import cv2
 import os
 
-videos_directory = '/home/cortezm/Desktop/Project IA/Real-life_Deception_Detection_2016/Clips/Deceptive'
-output_directory = '/home/cortezm/Desktop/Project IA/Real-life_Deception_Detection_2016/Clips/DeceptiveFR'
+videos_directory = '//Real-life_Deception_Detection_2016/Clips/Deceptive'
+output_directory = '/Real-life_Deception_Detection_2016/Clips/DeceptiveFR'
 
 # Output folder
 os.makedirs(output_directory, exist_ok=True)

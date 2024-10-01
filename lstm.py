@@ -10,8 +10,8 @@ model_path = '/Real-life_Deception_Detection_2016/TrainedModel.h5'
 
 base_model = load_model(model_path)
 
-truth_directory = '/home/cortezm/Desktop/Project IA/Real-life_Deception_Detection_2016/Clips/TruthfulFR'
-lie_directory = '/home/cortezm/Desktop/Project IA/Real-life_Deception_Detection_2016/Clips/DeceptiveFR'
+truth_directory = '/Real-life_Deception_Detection_2016/Clips/TruthfulFR'
+lie_directory = '/Real-life_Deception_Detection_2016/Clips/DeceptiveFR'
 
 def load_and_preprocess_images(directory, label):
     images = []
