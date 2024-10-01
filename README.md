@@ -18,11 +18,6 @@ The dataset is sourced from the **Real-Life Deception Detection** project by Moh
 - Analysis of deception patterns
 - Utilization of advanced neural network architectures
 
-## 🔧 Installation
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/lie-detection.git
-
 ## 📊 Dataset
 The dataset is obtained from the Real-Life Deception Detection project by Mohamed Abouelenien at the University of Michigan. It includes real-life trial videos labeled as deceptive or truthful based on the verdicts of the speakers.
 
